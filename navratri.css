@@ -566,3 +566,183 @@ a
     box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
 }
 
+
+
+/* pag-3 css */
+
+#d3_sec1
+{
+    background-image: url(./image/navratri_7.jpg);
+    height: 300px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#d3_div1
+{
+   
+    padding-top: 20px;
+    padding-left: 200px;
+}
+#d3_div1>p
+{
+    color: whitesmoke;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.3rem;
+    
+}
+#d3_p2
+{
+    margin-left: 100px;
+}
+#d3_img
+{
+    margin-left: 200px;
+    margin-bottom: 20px;
+}
+#d3_div2
+{
+    height: 250px;
+    width: 650px;
+ 
+    margin-left: 200px;
+}
+
+.d3_img2
+{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    overflow: hidden;
+   margin-top: 10px;
+   margin-left: 50px;
+}
+#d3_sec2
+{
+    background-color: #618264;
+    height: 500px;
+    width: 80%;
+    margin-left: 100px;
+}
+#d3_sec2_p1
+{
+    font-family: 'Fjalla One', sans-serif;
+   padding-top: 110px;
+   padding-left: 300px;
+   font-size: 1.7rem;
+}
+#d3_sec2_div2
+{
+    background-color:#79AC78;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-left: 270px;
+    font-size: 1.2rem;
+    font-family: 'Fjalla One', sans-serif;
+}
+#d3_sec2_div3
+{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    display: grid;
+    grid-template-columns: .2fr .2fr 1fr;
+    font-family: 'Poppins', sans-serif;
+    font-size: .9rem;
+}
+.d3_sec2_p2
+{
+   
+    margin-right: 40px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 10px;
+}
+.d3_sec3
+{
+    margin-top: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+/* pag-4 css */
+
+
+#d4_sec1_div1
+{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+#d4_sec1_div2
+{
+    background-color: white;
+    height: 300px;
+    padding-top: 100px;
+    padding-left: 150px;
+}
+#d4_sec1_div3
+{
+    background-color: black;
+    height: 300px;
+}
+#d4_s1
+{
+    font-family: 'Montserrat', sans-serif;
+    font-size: .8rem;
+}
+#d4_p1
+{
+    font-family: 'Skranji', cursive;
+    font-size: 2rem;
+}
+#d4_sec1_div4
+{
+    display: flex;
+    gap: 10px;
+}
+#d4_sec1_div5
+{
+    height: 250px;
+    margin: 20px;
+    background-image: url(./image/navratri_8.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#d4_sec1_p1
+{
+    padding-top: 230px;
+    padding-left: 30px;
+    color: yellowgreen;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 3rem;
+    text-shadow: #FC0 1px 0 10px;
+}
+
+#d4_sec2
+{
+    background-color: #CCC8AA;
+    height: 550px;
+    margin-top: 20px;
+    border-radius: 30px;
+}
+#d4_sec2_div1
+{
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 30px;
+}
+#d4_sec2_img
+{
+    height: 210px;
+    margin-top: 150px;
+    margin-left: 50px;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.read
+{
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 1.2rem;
+    margin-top: 40px;
+    margin-left: 10px;
+}
